@@ -1,6 +1,6 @@
 # Retos bandit
 
-# Level X
+# Level 0
 
 ## Objetivo
 El objetivo del nivel es entrar al juego haciendo uso de SSH.
@@ -12,7 +12,7 @@ La contraseña es: bandit0
 
 ## Solución
 Se acceda a juego haciendo uso de SSH con el siguiente comando: 
-bandit0@bandit.labs.overthewire.org -p 2220
+ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 bandit0: es el usuario que va a acceder.
 bandit.labs.overthewire.org: es la dirección del juego.
