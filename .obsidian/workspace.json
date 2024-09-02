@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< .mine
+                "file": "Retos/Level 0-1.md",
+=======
                 "file": "Retos/Level 15-16.md",
+>>>>>>> .theirs
                 "mode": "preview",
                 "source": false
               }
@@ -85,9 +89,15 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< .mine
+                "file": "Retos/Level 0-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+=======
                 "file": "Retos/Level 15-16.md",
                 "collapseAll": false,
                 "extraContext": false,
+>>>>>>> .theirs
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< .mine
+                "file": "Retos/Level 0-1.md",
+=======
                 "file": "Retos/Level 15-16.md",
+>>>>>>> .theirs
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< .mine
+                "file": "Retos/Level 0-1.md"
+=======
                 "file": "Retos/Level 15-16.md"
+>>>>>>> .theirs
               }
             }
           }
@@ -148,7 +166,22 @@
   },
   "active": "16f640acc678918c",
   "lastOpenFiles": [
+<<<<<<< .mine
+    "Retos/Level 0.md",
+    "Retos/Level 10.md",
+    "Retos/Level 9-10.md",
+    "Retos/Level 9.md",
+    "Retos/Level 8-9.md",
+    "Retos/Level 15-16.md",
+    "Imagenes/Pasted image 20240829205720.png"
+=======
     "Imagenes/Pasted image 20240829205720.png",
     "Retos/Level 15-16.md"
+
+
+
+
+
+>>>>>>> .theirs
   ]
 }
