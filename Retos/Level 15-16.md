@@ -24,7 +24,7 @@ Ingresamos la contraseña  de este nivel y nos da la del siguiente.
 
 ## Notas
 
-Descripción del comando **openssl s_client -connect localhost:30001:**
+Descripción del comando **openssl s_client -connect localhost:30001 :**
  
 ### `openssl`
  
